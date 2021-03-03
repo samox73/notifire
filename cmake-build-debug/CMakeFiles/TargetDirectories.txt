@@ -1,8 +1,0 @@
-/home/samox/gitlab/cpp/notifire/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/samox/gitlab/cpp/notifire/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/samox/gitlab/cpp/notifire/cmake-build-debug/CMakeFiles/notifire.dir
-/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
-/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
-/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/CMakeFiles/rebuild_cache.dir
-/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/CMakeFiles/edit_cache.dir
-/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/CMakeFiles/xpp.dir

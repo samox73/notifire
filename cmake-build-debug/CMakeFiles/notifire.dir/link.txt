@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/notifire.dir/main.cpp.o  -o notifire 
