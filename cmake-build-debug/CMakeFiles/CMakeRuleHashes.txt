@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+cf3c7ee580a8a596165271feb32b93ef lib/xpp/generated-sources/include/xpp/proto/composite.hpp
+3071fdce561bb8cac93c85febaade70c lib/xpp/generated-sources/include/xpp/proto/randr.hpp
+6bacdced407d47ed7fee5be73ef2e86d lib/xpp/generated-sources/include/xpp/proto/x.hpp
+1f3059464f5e2054c6c0f20dab3337aa lib/xpp/generated-sources/include/xpp/proto/xkb.hpp

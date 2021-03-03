@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="notifire"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lib\;CMake Files\lib\xpp\;CMake Files\lib\xpp\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/samox/gitlab/cpp/notifire/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/samox/gitlab/cpp/notifire/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/samox/gitlab/cpp/notifire/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="notifire">
+				<Option output="/home/samox/gitlab/cpp/notifire/cmake-build-debug/notifire" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/samox/gitlab/cpp/notifire/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/samox/gitlab/cpp/notifire/lib/xpp/include"/>
+					<Add directory="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 notifire"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="notifire/fast">
+				<Option output="/home/samox/gitlab/cpp/notifire/cmake-build-debug/notifire" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/samox/gitlab/cpp/notifire/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/samox/gitlab/cpp/notifire/lib/xpp/include"/>
+					<Add directory="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 notifire/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xpp">
+				<Option output="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/libxpp.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/samox/gitlab/cpp/notifire/lib/xpp/include"/>
+					<Add directory="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/Makefile&quot;  VERBOSE=1 xpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xpp/fast">
+				<Option output="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/libxpp.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/samox/gitlab/cpp/notifire/lib/xpp/include"/>
+					<Add directory="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/Makefile&quot;  VERBOSE=1 xpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include/xpp/proto/composite.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include/xpp/proto/composite.hpp.rule">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include/xpp/proto/randr.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include/xpp/proto/randr.hpp.rule">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include/xpp/proto/x.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include/xpp/proto/x.hpp.rule">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include/xpp/proto/xkb.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/cmake-build-debug/lib/xpp/generated-sources/include/xpp/proto/xkb.hpp.rule">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/atom.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/colormap.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/connection.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/core.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/cursor.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/drawable.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/event.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/font.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/fontable.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/gcontext.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/generic.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/generic/error.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/generic/event.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/generic/extension.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/generic/factory.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/generic/input_iterator_adapter.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/generic/iterator_traits.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/generic/reply_iterator.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/generic/request.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/generic/resource.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/generic/signature.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/pixmap.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/valueparam.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/window.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/include/xpp/xpp.hpp">
+			<Option target="xpp"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/main.cpp">
+			<Option target="notifire"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\xpp\"/>
+		</Unit>
+		<Unit filename="/home/samox/gitlab/cpp/notifire/lib/xpp/cmake/FindXCB.cmake">
+			<Option virtualFolder="CMake Files\lib\xpp\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
